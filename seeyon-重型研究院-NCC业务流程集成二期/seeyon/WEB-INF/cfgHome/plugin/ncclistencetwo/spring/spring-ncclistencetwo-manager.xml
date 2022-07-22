@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN//EN" "http://www.springframework.org/dtd/spring-beans.dtd">
+<beans default-autowire="byName">
+    <bean id="guDingZiChanFkdFromWorkerFlowEvent" class="com.seeyon.apps.ncclistencetwo.flow.GuDingZiChanFkdFromWorkerFlowEvent"></bean>
+    <bean id="hengXiagHeTongFromWorkFlowEvent" class="com.seeyon.apps.ncclistencetwo.flow.HengXiagHeTongFromWorkFlowEvent"></bean>
+	<bean id="keJiBuFkdWorkFlowEvent" class="com.seeyon.apps.ncclistencetwo.flow.KeJiBuFkdWorkFlowEvent"></bean>
+	<bean id="baoXiaoPingZhengWorkFlowEvent" class="com.seeyon.apps.ncclistencetwo.flow.BaoXiaoPingZhengWorkFlowEvent"></bean>
+    <bean id="twoJianZaoHeTongFromWorkflowEvent" class="com.seeyon.apps.ncclistencetwo.flow.TwoJianZaoHeTongFromWorkflowEvent"></bean>
+	<bean id="yuSuanFashengeWorkFlowEvent" class="com.seeyon.apps.ncclistencetwo.flow.YuSuanFashengeWorkFlowEvent"></bean>
+	<bean id="baoxiaodanFormWorkflowEvent" class="com.seeyon.apps.ncclistencetwo.flow.BaoxiaodanFormWorkflowEvent"></bean>
+	<bean id="caiWuShuJuZhanSWorkFlowEvent" class="com.seeyon.apps.ncclistencetwo.flow.CaiWuShuJuZhanSWorkFlowEvent"></bean>
+	<bean id="neiBuTiChengWorkFlowEvent" class="com.seeyon.apps.ncclistencetwo.flow.NeiBuTiChengWorkFlowEvent"></bean>
+</beans>

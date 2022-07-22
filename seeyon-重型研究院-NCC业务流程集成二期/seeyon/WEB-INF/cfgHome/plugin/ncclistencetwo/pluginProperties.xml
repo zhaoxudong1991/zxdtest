@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ctpConfig>
+	<Information>
+		<ncctwo>
+			<ip mark="{VE}" desc="NCC系统的IP以及端口">http://10.1.1.69:8069</ip>
+			<gudingzichanfkd mark="{VE}" desc="固定资产付款单的数据存储表名">formmain_2361</gudingzichanfkd>
+			<gudingzichanfkdresult mark="{VE}" desc="固定资产付款单的凭证结果回填">field0134</gudingzichanfkdresult>
+			
+			<hengxiaghetong mark="{VE}" desc="横向合同内部拨款单的数据存储表名">formmain_1420</hengxiaghetong>
+			<hengxiaghetongresult mark="{VE}" desc="横向合同内部拨款单的凭证结果回填">field0210</hengxiaghetongresult>
+			
+			<kejibufkd mark="{VE}" desc="科技部付款单的数据存储表名">formmain_1349</kejibufkd>
+			<kejibufkdresult mark="{VE}" desc="科技部付款单的凭证结果回填">field0049</kejibufkdresult>
+			
+			<baoxiaotwo mark="{VE}" desc="报销凭证的数据存储表名">formmain_2360</baoxiaotwo>
+			<baoxiaotworesult mark="{VE}" desc="报销凭证的凭证结果回填">field0053</baoxiaotworesult>
+			
+		</ncctwo>
+		
+	</Information>
+</ctpConfig>

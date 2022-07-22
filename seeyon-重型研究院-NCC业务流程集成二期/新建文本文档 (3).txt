@@ -1,0 +1,4 @@
+{"accbookCode":["101005-0001"],"year":"2022","endYear":"2022","period":"07","endPeriod":"07","inclUntallyed":true,"currtypeCode":"本币","queryObj":[{"checktype":{"checktypecode":"会计科目","checktypename":"会计科目"},"checkvalue":[{"checkvaluecode":"22020103"}]},{"checktype":{"checktypecode":"0004"},"checkvalue":[{"checkvaluecode":"00037997"}]},{"checktype":{"checktypecode":"0010"},"checkvalue":[{"checkvaluecode":"Y1801107.W08"}]},{"checktype":{"checktypecode":"0001"},"checkvalue":[{"checkvaluecode":"011"}]}]}
+{"success":true,"data":{"access_token":"325d1d756ca4b54d968c35bc22f3ca09","expires_in":1000000,"refresh_token":"325d1d756ca4b54d968c35bc22f3ca09","security_key":"xH4wTFmX5j8quF2SiZyaaP+pRowxWw5JHaevR/jdU3I\u003d","ts":1656666485306,"grant_type":"client_credentials"},"code":"1000000000"}
+
+<H1>SRVE0255E: ??δ????????? /nccloud/api/gl/accountrep/assbalance ?? Web ??/??????????</H1><BR><H3>SRVE0255E: ??δ????????? 10.1.21.21:80 ?? Web ??/??????????</H3><BR>
